@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact name="AutomaticTellerMachine:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AutomaticTellerMachine_jar</output-path>
+    <root id="root">
+      <element id="archive" name="AutomaticTellerMachine.jar">
+        <element id="module-output" name="AutomaticTellerMachine" />
+      </element>
+      <element id="library" level="project" name="mysql-connector-java-8.0.20" />
+      <element id="file-copy" path="$USER_HOME$/Documents/mysql-connector-java-5.1.48/mysql-connector-java-5.1.48.jar" />
+    </root>
+  </artifact>
+</component>
